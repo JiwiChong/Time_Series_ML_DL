@@ -4,6 +4,8 @@ Specifically, it was was focused on Time Series Forecasting for detection of cri
 which devices' CPU and Temperature values must avoid. Failure to do so wuold put the devices' 
 operation into jeopardy. 
 
+![research_background](https://github.com/user-attachments/assets/a45ff349-f27c-488e-bd9c-bf45baced463)
+
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
 Bayesian Optimization. Prevention of disappearance of Precision metric was made using the Quantile loss function
 and an N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
