@@ -5,6 +5,7 @@ which devices' CPU and Temperature values must avoid. Failure to do so wuold put
 operation into jeopardy. 
 
 <img src="https://github.com/user-attachments/assets/a45ff349-f27c-488e-bd9c-bf45baced463" width=75% height=70%> <br />
+<br />
 <img src="https://github.com/user-attachments/assets/ed9daafa-a0ff-4dae-a9b3-176722dae4a4" width=75% height=70%> <br />
 
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
