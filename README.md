@@ -4,9 +4,15 @@ Specifically, it was was focused on Time Series Forecasting for detection of cri
 which devices' CPU and Temperature values must avoid. Failure to do so wuold put the devices' 
 operation into jeopardy. 
 
-<img src="https://github.com/user-attachments/assets/a45ff349-f27c-488e-bd9c-bf45baced463" width=75% height=70%> <br />
-<br />
-<img src="https://github.com/user-attachments/assets/ed9daafa-a0ff-4dae-a9b3-176722dae4a4" width=75% height=70%> <br />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/26e55e02-f269-46f1-afe8-af12a09e4653" width=80% height=80%>
+</div><br />
+
+Time Series data visualization of the Devices
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/612a93d9-8808-4d0c-9c5b-6d03e47c9099" width=80% height=80%>
+</div><br />
 
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
 Bayesian Optimization. Prevention of disappearance of Precision metric was made using the Quantile loss function
