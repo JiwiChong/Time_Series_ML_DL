@@ -14,8 +14,25 @@ Time Series data visualization of the Devices
 <img src="https://github.com/user-attachments/assets/612a93d9-8808-4d0c-9c5b-6d03e47c9099" width=80% height=80%>
 </div><br />
 
+###Objective metric scores of the Project:
+* Accuracy (80%)
+* Precision (50%)
+* FVU (1 - R-squared) (0.25)
+
+1-step Time series forecasting metrics:
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/024f369d-b89d-423d-a411-ad15e35a53c6" width=85% height=75%>
+</div><br />
+
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
-Bayesian Optimization. Prevention of disappearance of Precision metric was made using the Quantile loss function
+Bayesian Optimization. 
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=70% height=70%>
+</div><br />
+
+Prevention of disappearance of Precision metric was made using the Quantile loss function
 and an N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
 forecasting system for long-term observance and management of the usage of the devices. 
 
