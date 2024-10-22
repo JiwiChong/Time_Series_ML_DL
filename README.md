@@ -32,10 +32,18 @@ Bayesian Optimization.
 <img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=70% height=70%>
 </div><br />
 
-Prevention of disappearance of Precision metric was made using the Quantile loss function
-and an N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
+An N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
 forecasting system for long-term observance and management of the usage of the devices. 
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/5963f544-25e4-412c-95bb-176592fcea8e" width=70% height=70%>
+</div><br />
 
+Prevention of disappearance of Precision metric was made using the Quantile loss function
+and an N-step forecasting system was developed. As seen below, every Precision score starting from
+9th time step was restored.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8b411f77-ed4a-443c-863d-6111c4bee61e" width=70% height=70%>
+</div><br />
 
