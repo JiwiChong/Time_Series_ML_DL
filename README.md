@@ -49,6 +49,7 @@ and an N-step forecasting system was developed. As seen below, every Precision s
 
 ### Commands
 **_Train_** <br />
-python main.py --data_dir (Directory of data) --seq_len (Length of historical data)
+python main.py --data_dir () --seq_len ()
 
 **_Evaluation_** <br />
+python eval.py --data_dir () --one_step () --n_step () --n_step_size () --scale_data () --forecast_data () --loss_function () --tilt_loss_q () --custom_loss_prop () --model_name () --run_num ()
