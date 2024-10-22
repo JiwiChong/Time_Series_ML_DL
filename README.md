@@ -25,10 +25,6 @@ Time Series data visualization of the Devices
 <img src="https://github.com/user-attachments/assets/024f369d-b89d-423d-a411-ad15e35a53c6" width=85% height=75%>
 </div><br />
 
-### Commands
-**_Train_** <br />
-python main.py --main_dir (Directory of repository) --num_experts (# of models in Ensemble) --task (Data used) --lambda_ (Lambda value in loss func) --emb_max_len (Max length of BERT embedding) --num_classes (# of output classes) --run_num (# of run)
-
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
 Bayesian Optimization. 
 
