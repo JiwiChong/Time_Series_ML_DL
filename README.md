@@ -14,7 +14,7 @@ Time Series data visualization of the Devices
 <img src="https://github.com/user-attachments/assets/612a93d9-8808-4d0c-9c5b-6d03e47c9099" width=80% height=100%>
 </div><br />
 
-###Objective metric scores of the Project:
+### Objective metric scores of the Project:
 * Accuracy (80%)
 * Precision (50%)
 * FVU (1 - R-squared) (0.25)
