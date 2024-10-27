@@ -22,21 +22,21 @@ Time Series data visualization of the Devices
 1-step Time series forecasting metrics:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/024f369d-b89d-423d-a411-ad15e35a53c6" width=85% height=75%>
+<img src="https://github.com/user-attachments/assets/024f369d-b89d-423d-a411-ad15e35a53c6" width=85% height=95%>
 </div><br />
 
 The time-series forecasting model this work was Long Short-Term Memory (LSTM), which was finetuned using
 Bayesian Optimization. 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=70% height=70%>
+<img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=80% height=80%>
 </div><br />
 
 An N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
 forecasting system for long-term observance and management of the usage of the devices. 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/5963f544-25e4-412c-95bb-176592fcea8e" width=70% height=70%>
+<img src="https://github.com/user-attachments/assets/5963f544-25e4-412c-95bb-176592fcea8e" width=80% height=80%>
 </div><br />
 
 Prevention of disappearance of Precision metric was made using the Quantile loss function
@@ -44,12 +44,16 @@ and an N-step forecasting system was developed. As seen below, every Precision s
 9th time step was restored.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8b411f77-ed4a-443c-863d-6111c4bee61e" width=70% height=70%>
+<img src="https://github.com/user-attachments/assets/8b411f77-ed4a-443c-863d-6111c4bee61e" width=80% height=80%>
 </div><br />
 
 ### Commands
 **_Train_** <br />
+```python
 python main.py --data_dir () --seq_len ()
+```
 
 **_Evaluation_** <br />
+```python
 python eval.py --data_dir () --one_step () --n_step () --n_step_size () --scale_data () --forecast_data () --loss_function () --tilt_loss_q () --custom_loss_prop () --model_name () --run_num ()
+```
