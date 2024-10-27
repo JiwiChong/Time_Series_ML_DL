@@ -29,7 +29,7 @@ The time-series forecasting model this work was Long Short-Term Memory (LSTM), w
 Bayesian Optimization. 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=80% height=80%>
+<img src="https://github.com/user-attachments/assets/7d507bd2-fc22-41ea-b51b-a638b0464fe4" width=65% height=65%>
 </div><br />
 
 An N-step forecasting system was developed. Such development was made to offer a long-term futuristic 
