@@ -1,14 +1,14 @@
 # Time Series Anomaly Detection: Device Malfunctioning prevention
 This research work was an AI-based Self-diagnosis integrated control system for efficient operation of IT equipment.  
-Specifically, it was was focused on Time Series Forecasting for detection of critical points in
-which devices' CPU and Temperature values must avoid. Failure to do so wuold put the devices' 
+Specifically, it wasfocused on Time Series Forecasting for the detection of critical points in
+which devices' CPU and Temperature values must avoid. Failure to do so would put the devices' 
 operation into jeopardy. 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/26e55e02-f269-46f1-afe8-af12a09e4653" width=80% height=80%>
 </div><br />
 
-Time Series data visualization of the Devices
+Time Series data visualization of the Devices.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/612a93d9-8808-4d0c-9c5b-6d03e47c9099" width=80% height=100%>
